@@ -1,2 +1,3 @@
 # MBDF
-Experimental, just as support for question on Stackoverflow
+### Minimal Binary Database Format
+Experimental, just as support for question on Stackoverflow!
